@@ -1,0 +1,19 @@
+.mainblock{
+    border: 2px solid red;
+    width: 300px;
+    justify-content: center;
+    justify-items: center;
+    margin-left: 33%;
+    padding-left: 73px;
+    background-color:rgb(221, 190, 99);
+}
+img{width: 200px;height: 200px;}
+.parentblock{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+}
+h1{margin-left: 39%;color: rgb(10, 6, 190);
+border: 2px solid black;width: 240px;
+background-color: coral;}
